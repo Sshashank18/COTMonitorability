@@ -65,19 +65,6 @@ plt.ylabel("Attention Score")
 plt.show()
 ```
 
----
-
-## 📂 Project Structure
-
-```
-├── data/                  # (Optional) Store datasets here
-├── models/                # Saved fine-tuned models
-├── your_module.py         # Core training + monitoring code
-├── README.md              # You are here
-```
-
----
-
 ## 📊 Example Output
 
 - **Generated CoT reasoning**: `He starts with 12. After eating 4, he has 8. Then he buys 7. So he has 15.`
